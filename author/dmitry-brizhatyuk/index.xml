@@ -5,7 +5,7 @@
     <link>/author/dmitry-brizhatyuk/</link>
       <atom:link href="/author/dmitry-brizhatyuk/index.xml" rel="self" type="application/rss+xml" />
     <description>Dmitry Brizhatyuk</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/dmitry-brizhatyuk/avatar_hu81b683c0ced02b8de400cae5e86a8c01_9488_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Dmitry Brizhatyuk</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Scarring effects of trade policy uncertainty</title>
-      <link>/publication/brizhatyukghironi2020/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/brizhatyukghironi2020/</guid>
+      <title>A framework to quantify and manage climate hazard concentration risk</title>
+      <link>/publication/brizhatyuk2021b/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/brizhatyuk2021b/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -29,9 +29,24 @@
     
     <item>
       <title>Assessment of Financial Impacts of Climate-related Hazard Events</title>
-      <link>/publication2/brizhatyuk2021a/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      <guid>/publication2/brizhatyuk2021a/</guid>
+      <link>/publication/brizhatyuk2021a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brizhatyuk2021a/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scarring effects of trade policy uncertainty</title>
+      <link>/publication/brizhatyukghironi2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/brizhatyukghironi2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
